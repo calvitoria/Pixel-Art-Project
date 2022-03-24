@@ -1,0 +1,138 @@
+/* body */
+
+body {
+  margin: auto;
+  padding: auto;
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+  background-image: url('images/bg1.png');
+  background-size: cover;
+}
+/* paleta de cores: */
+
+h1 {
+  font-size: 43px;
+  font-weight: 600;
+  text-transform: lowercase;
+  margin-bottom: 2px;
+}
+
+h4 {
+  font-weight: 200;
+  text-transform: lowercase;
+  font-size: 21px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.home-title {
+  /* background-color: #e85bc581; */
+  align-content: center;
+  margin-top: 50px;
+}
+
+.container-palette {
+  margin-bottom: 21px;
+  /* margin-top: 32px; */
+}
+
+/* config geral para todos quadrados */
+.color {
+  border: 1px solid black;
+  border-radius: 0.3em;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+/* botões e input */
+.btn-container {
+  margin-bottom: 53px;
+}
+
+#clear-board {
+  padding: 0 10px;
+  background-color: #ffebe3;
+  cursor: pointer;
+}
+
+#clear-board:hover {
+  background-color: #dbbdb1;
+  color: white;
+}
+
+#board-size {
+  margin: 0 6px;
+  padding: 0 6px;
+  background-color: #ffebe3;
+}
+
+#generate-board {
+  padding: 0 10px;
+  background-color: #ffebe3;
+  cursor: pointer;
+}
+
+#generate-board:hover {
+  background-color: #dbbdb1;
+  color: white;
+}
+
+/* config específica */
+#black {
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 3em;
+  width: 70px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#pink {
+  background-color: #e85bc5;
+  border: 1px solid black;
+  border-radius: 3em;
+  width: 70px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#blue {
+  background-color: #0ba2be;
+  border: 1px solid black;
+  border-radius: 3em;
+  width: 70px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#lavander {
+  background-color: #af87ff;
+  border: 1px solid black;
+  border-radius: 1em;
+  width: 70px;
+  height: 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+#pixel-board {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.pixel {
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  display: inline-block;
+  margin-bottom: -4px;
+  cursor: pointer;
+}
