@@ -13,6 +13,11 @@ O objetivo deste projeto foi treinar e melhorar minhas capacidades e conheciment
    <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/159945423-31deac3c-b0ce-4503-9b62-a2995284c583.png" />
 </div>
 
+  ## Resultado final: 
+<div>
+   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/160158161-c0dd31c4-efba-4a97-a4c4-db92b4d7f2d4.gif" />
+</div>
+  
 ## Requisitos Obrigatórios:
 
 Neste projeto, você implementará um editor de arte com pixels.
