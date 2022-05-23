@@ -1,6 +1,6 @@
 
 <div style="display: inline_block">    
-  <img align="right" alt="vode like a girl sticker"  width="150px" src="https://media0.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif?cid=ecf05e4730ed5f0e5c007a0588a543221a8bed0c5d463a93&rid=giphy.gif&ct=s" />   
+  <img align="left" alt="vode like a girl sticker"  width="150px" src="https://media0.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif?cid=ecf05e4730ed5f0e5c007a0588a543221a8bed0c5d463a93&rid=giphy.gif&ct=s" />   
 </div>
 
 ## Bem vindo ao repositório dedicado ao projeto Pixels Art! 
