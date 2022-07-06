@@ -5,6 +5,7 @@
 
 ## Bem vindo ao repositório dedicado ao projeto Pixels Art! 
 O objetivo deste projeto foi treinar e melhorar minhas capacidades e conhecimentos em JavaScript! Abaixo, você encontrará os requisitos para a realização e aprovação do projeto. Lembrando que fiz esse projeto no Módulo 1 (fundamentos) enquanto estudante da Trybe. 
+*reminder: this was developed while student of Trybe! Some helper files were given by the course!*
 
 #### 🚀 Adoraria saber onde posso melhorar, então se tiver algum feedback, não hesite em me contatar! 🚀
 <div>
