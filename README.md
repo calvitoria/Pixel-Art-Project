@@ -1,8 +1,3 @@
-
-<div style="display: inline_block">    
-  <img align="left" alt="vode like a girl sticker"  width="100px" src="https://media0.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif?cid=ecf05e4730ed5f0e5c007a0588a543221a8bed0c5d463a93&rid=giphy.gif&ct=s" />   
-</div>
-
 ## Bem vindo ao repositório dedicado ao projeto Pixels Art! 
 O objetivo deste projeto foi treinar e melhorar minhas capacidades e conhecimentos em JavaScript! Abaixo, você encontrará os requisitos para a realização e aprovação do projeto. Lembrando que fiz esse projeto no Módulo 1 (fundamentos) enquanto estudante da Trybe. 
 *reminder: this was developed while student of Trybe! Some helper files were given by the course!*
